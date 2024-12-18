@@ -7,8 +7,11 @@ Problems uncovered in an early stage stop the code from progressing through the 
 
   
 CodeCommit: For Source Code Management
+
 CodeBuild: For building and testing our code in a serverless fashion
+
 CodeDeploy: To deploy our code
+
 CodePipeline: To streamline the CI/CD pipeline
 
 Step-1
